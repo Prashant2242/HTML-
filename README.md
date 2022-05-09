@@ -1,2 +1,2 @@
 # HTML-Cv
-https://prashantbha.github.io/HTML-/
+https://prashant2242.github.io/HTML-/
